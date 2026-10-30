@@ -43,8 +43,6 @@ class ProfileScreen extends StatelessWidget {
                 padding: const EdgeInsets.fromLTRB(24, 16, 24, 16),
                 child: Column(
                   children: [
-                    Image.asset('assets/logo/logo_kantin.png', height: 40),
-                    const SizedBox(height: 16),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
