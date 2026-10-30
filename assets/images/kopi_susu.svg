@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Kopi Susu Gula Aren">
+<defs>
+  <linearGradient id="bg-kopi_susu" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#F3EEFF"/><stop offset="1" stop-color="#E2D8FF"/>
+  </linearGradient>
+  <radialGradient id="plate-kopi_susu" cx="45%" cy="35%" r="70%">
+    <stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F0EEE6"/>
+  </radialGradient>
+  <filter id="sh-kopi_susu" x="-40%" y="-40%" width="180%" height="180%">
+    <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#1C2333" flood-opacity=".16"/>
+  </filter>
+</defs>
+<rect width="600" height="450" fill="url(#bg-kopi_susu)"/>
+<circle cx="525" cy="65" r="85" fill="#FFFFFF" opacity=".20"/>
+<circle cx="65" cy="395" r="110" fill="#FFFFFF" opacity=".14"/>
+
+<ellipse cx="300" cy="397" rx="105" ry="20" fill="#1C2333" opacity=".10"/>
+<g filter="url(#sh-kopi_susu)">
+  <path d="M216 112 L234 376 Q300 400 366 376 L384 112 Z" fill="#FFFFFF"/>
+  <path d="M228 238 L238 368 Q300 388 362 368 L372 238 Z" fill="#6B3E2E"/>
+  <path d="M228 198 L372 198 L372 244 L228 244 Z" fill="#B98A6A"/>
+  <path d="M226 150 L374 150 L372 202 L228 202 Z" fill="#F3E5D8"/>
+  <ellipse cx="300" cy="112" rx="84" ry="20" fill="#FFFFFF"/>
+  <ellipse cx="300" cy="114" rx="72" ry="14" fill="#F3E5D8"/>
+  <path d="M216 112 L234 376 Q300 400 366 376 L384 112" fill="none" stroke="#E6E9F2" stroke-width="3"/>
+</g>
+['<rect x="280.9" y="187.7" width="26" height="26" rx="6" fill="#FFFFFF" opacity=".42" transform="rotate(-16.7 293.9 200.7)"/>', '<rect x="335.2" y="229.4" width="26" height="26" rx="6" fill="#FFFFFF" opacity=".42" transform="rotate(9.5 348.2 242.4)"/>', '<rect x="298.4" y="206.0" width="26" height="26" rx="6" fill="#FFFFFF" opacity=".42" transform="rotate(11.6 311.4 219.0)"/>', '<rect x="300.8" y="253.7" width="26" height="26" rx="6" fill="#FFFFFF" opacity=".42" transform="rotate(8.1 313.8 266.7)"/>', '<rect x="327.6" y="212.7" width="26" height="26" rx="6" fill="#FFFFFF" opacity=".42" transform="rotate(-17.2 340.6 225.7)"/>', '<rect x="257.3" y="246.8" width="26" height="26" rx="6" fill="#FFFFFF" opacity=".42" transform="rotate(-16.6 270.3 259.8)"/>']
+<g>
+  <path d="M346 74 L314 250" stroke="#1C2333" stroke-width="14" stroke-linecap="round"/>
+  <path d="M342 76 L311 245" stroke="#4A5265" stroke-width="4" stroke-linecap="round"/>
+</g>
+<g fill="#3E2418">
+  <ellipse cx="268" cy="330" rx="11" ry="7" transform="rotate(-24 268 330)"/>
+  <ellipse cx="326" cy="344" rx="10" ry="6" transform="rotate(18 326 344)"/>
+  <ellipse cx="300" cy="352" rx="9" ry="6" transform="rotate(-8 300 352)"/>
+</g>
+
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Pisang Goreng Keju">
+<defs>
+  <linearGradient id="bg-pisang_goreng" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#FFF8E1"/><stop offset="1" stop-color="#FFEDB8"/>
+  </linearGradient>
+  <radialGradient id="plate-pisang_goreng" cx="45%" cy="35%" r="70%">
+    <stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F0EEE6"/>
+  </radialGradient>
+  <filter id="sh-pisang_goreng" x="-40%" y="-40%" width="180%" height="180%">
+    <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#1C2333" flood-opacity=".16"/>
+  </filter>
+</defs>
+<rect width="600" height="450" fill="url(#bg-pisang_goreng)"/>
+<circle cx="525" cy="65" r="85" fill="#FFFFFF" opacity=".20"/>
+<circle cx="65" cy="395" r="110" fill="#FFFFFF" opacity=".14"/>
+
+<g filter="url(#sh-pisang_goreng)">
+  <ellipse cx="300" cy="258" rx="182" ry="126" fill="url(#plate-pisang_goreng)" stroke="#E9E5DA" stroke-width="2"/>
+</g>
+<path d="M178 286 C210 220 300 196 388 214 C436 224 442 268 420 300 C380 344 254 348 196 318 C178 308 172 298 178 286 Z" fill="#6FB96A"/>
+<path d="M196 284 C230 232 304 214 380 230 C414 238 418 268 400 292 C366 326 266 330 212 308 C194 300 190 292 196 284 Z" fill="#8CCB7A"/>
+<g>
+  <ellipse cx="258" cy="252" rx="58" ry="34" fill="#D99A45" transform="rotate(-14 258 252)"/>
+  <ellipse cx="252" cy="246" rx="50" ry="27" fill="#E8B25E" transform="rotate(-14 252 246)"/>
+  <ellipse cx="346" cy="258" rx="58" ry="34" fill="#D99A45" transform="rotate(12 346 258)"/>
+  <ellipse cx="340" cy="252" rx="50" ry="27" fill="#E8B25E" transform="rotate(12 340 252)"/>
+  <ellipse cx="300" cy="296" rx="60" ry="32" fill="#D99A45" transform="rotate(-2 300 296)"/>
+  <ellipse cx="300" cy="290" rx="51" ry="25" fill="#EFC074" transform="rotate(-2 300 290)"/>
+</g>
+<circle cx="202.5" cy="184.6" r="2.0" fill="#FFFFFF" opacity=".85"/><circle cx="336.8" cy="188.0" r="1.6" fill="#FFFFFF" opacity=".85"/><circle cx="246.4" cy="268.5" r="1.7" fill="#FFFFFF" opacity=".85"/><circle cx="348.1" cy="256.1" r="1.7" fill="#FFFFFF" opacity=".85"/><circle cx="307.1" cy="228.2" r="2.0" fill="#FFFFFF" opacity=".85"/><circle cx="399.3" cy="182.1" r="1.5" fill="#FFFFFF" opacity=".85"/><circle cx="388.0" cy="222.4" r="1.8" fill="#FFFFFF" opacity=".85"/><circle cx="266.1" cy="217.4" r="2.7" fill="#FFFFFF" opacity=".85"/><circle cx="242.1" cy="198.2" r="2.3" fill="#FFFFFF" opacity=".85"/><circle cx="309.5" cy="294.0" r="2.6" fill="#FFFFFF" opacity=".85"/><circle cx="271.1" cy="196.5" r="2.6" fill="#FFFFFF" opacity=".85"/><circle cx="397.8" cy="173.9" r="2.5" fill="#FFFFFF" opacity=".85"/><circle cx="373.7" cy="254.6" r="1.8" fill="#FFFFFF" opacity=".85"/><circle cx="359.3" cy="264.9" r="1.8" fill="#FFFFFF" opacity=".85"/><circle cx="328.2" cy="198.5" r="1.6" fill="#FFFFFF" opacity=".85"/><circle cx="267.2" cy="213.5" r="2.0" fill="#FFFFFF" opacity=".85"/><circle cx="329.4" cy="278.7" r="2.7" fill="#FFFFFF" opacity=".85"/><circle cx="395.3" cy="299.2" r="2.5" fill="#FFFFFF" opacity=".85"/><circle cx="261.3" cy="192.9" r="2.3" fill="#FFFFFF" opacity=".85"/><circle cx="309.2" cy="257.7" r="1.6" fill="#FFFFFF" opacity=".85"/><circle cx="238.6" cy="289.7" r="2.3" fill="#FFFFFF" opacity=".85"/><circle cx="339.1" cy="182.4" r="2.0" fill="#FFFFFF" opacity=".85"/><circle cx="382.0" cy="254.4" r="2.8" fill="#FFFFFF" opacity=".85"/><circle cx="239.4" cy="229.1" r="2.5" fill="#FFFFFF" opacity=".85"/><circle cx="288.9" cy="272.6" r="2.2" fill="#FFFFFF" opacity=".85"/><circle cx="223.6" cy="182.9" r="2.8" fill="#FFFFFF" opacity=".85"/>
+<g fill="#FFFFFF" opacity=".55">
+  <circle cx="252" cy="238" r="4"/><circle cx="340" cy="244" r="4"/><circle cx="300" cy="282" r="4"/>
+</g>
+
+</svg>

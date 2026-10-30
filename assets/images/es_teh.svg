@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Es Teh Manis">
+<defs>
+  <linearGradient id="bg-es_teh" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#EAF4FF"/><stop offset="1" stop-color="#D4E8FF"/>
+  </linearGradient>
+  <radialGradient id="plate-es_teh" cx="45%" cy="35%" r="70%">
+    <stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F0EEE6"/>
+  </radialGradient>
+  <filter id="sh-es_teh" x="-40%" y="-40%" width="180%" height="180%">
+    <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#1C2333" flood-opacity=".16"/>
+  </filter>
+</defs>
+<rect width="600" height="450" fill="url(#bg-es_teh)"/>
+<circle cx="525" cy="65" r="85" fill="#FFFFFF" opacity=".20"/>
+<circle cx="65" cy="395" r="110" fill="#FFFFFF" opacity=".14"/>
+
+<ellipse cx="300" cy="397" rx="105" ry="20" fill="#1C2333" opacity=".10"/>
+<g filter="url(#sh-es_teh)">
+  <path d="M218 118 L238 374 Q300 400 362 374 L382 118 Z" fill="#F3C46B"/>
+  <path d="M232 160 L248 366 Q300 388 352 366 L368 160 Z" fill="#E8A94B" opacity=".55"/>
+  <ellipse cx="300" cy="118" rx="82" ry="20" fill="#FFF1CE"/>
+  <ellipse cx="300" cy="121" rx="70" ry="14" fill="#F7D98A"/>
+</g>
+['<rect x="258.1" y="280.4" width="26" height="26" rx="6" fill="#FFFFFF" opacity=".55" transform="rotate(7.6 271.1 293.4)"/>', '<rect x="292.7" y="204.6" width="26" height="26" rx="6" fill="#FFFFFF" opacity=".55" transform="rotate(16.4 305.7 217.6)"/>', '<rect x="328.9" y="252.0" width="26" height="26" rx="6" fill="#FFFFFF" opacity=".55" transform="rotate(0.3 341.9 265.0)"/>', '<rect x="266.0" y="170.5" width="26" height="26" rx="6" fill="#FFFFFF" opacity=".55" transform="rotate(-7.2 279.0 183.5)"/>', '<rect x="304.4" y="181.1" width="26" height="26" rx="6" fill="#FFFFFF" opacity=".55" transform="rotate(16.5 317.4 194.1)"/>', '<rect x="265.5" y="207.2" width="26" height="26" rx="6" fill="#FFFFFF" opacity=".55" transform="rotate(-25.6 278.5 220.2)"/>', '<rect x="349.7" y="288.2" width="26" height="26" rx="6" fill="#FFFFFF" opacity=".55" transform="rotate(21.0 362.7 301.2)"/>', '<rect x="307.7" y="175.5" width="26" height="26" rx="6" fill="#FFFFFF" opacity=".55" transform="rotate(-9.6 320.7 188.5)"/>']
+<g>
+  <circle cx="232" cy="158" r="26" fill="#FFE08A"/>
+  <circle cx="232" cy="158" r="20" fill="#FFF5C9"/>
+  <g stroke="#F5C24A" stroke-width="2">
+    <path d="M232 138 L232 178"/><path d="M212 158 L252 158"/>
+    <path d="M218 144 L246 172"/><path d="M246 144 L218 172"/>
+  </g>
+</g>
+<g>
+  <path d="M348 70 L312 246" stroke="#F26B38" stroke-width="16" stroke-linecap="round"/>
+  <path d="M344 72 L309 241" stroke="#FF9A72" stroke-width="5" stroke-linecap="round"/>
+</g>
+<g fill="#FFFFFF" opacity=".55">
+  <circle cx="250" cy="300" r="3"/><circle cx="270" cy="330" r="2.5"/>
+  <circle cx="340" cy="310" r="3"/><circle cx="352" cy="270" r="2.5"/>
+  <circle cx="262" cy="250" r="2"/>
+</g>
+
+</svg>

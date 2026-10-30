@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Mie Ayam Spesial">
+<defs>
+  <linearGradient id="bg-mie_ayam" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#EAF7F2"/><stop offset="1" stop-color="#CFEDE2"/>
+  </linearGradient>
+  <radialGradient id="plate-mie_ayam" cx="45%" cy="35%" r="70%">
+    <stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F0EEE6"/>
+  </radialGradient>
+  <filter id="sh-mie_ayam" x="-40%" y="-40%" width="180%" height="180%">
+    <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#1C2333" flood-opacity=".16"/>
+  </filter>
+</defs>
+<rect width="600" height="450" fill="url(#bg-mie_ayam)"/>
+<circle cx="525" cy="65" r="85" fill="#FFFFFF" opacity=".20"/>
+<circle cx="65" cy="395" r="110" fill="#FFFFFF" opacity=".14"/>
+
+<ellipse cx="300" cy="365" rx="165" ry="26" fill="#1C2333" opacity=".10"/>
+<g filter="url(#sh-mie_ayam)">
+  <path d="M150 228 C160 332 220 376 300 376 C380 376 440 332 450 228 Z" fill="#2F7F7C"/>
+  <ellipse cx="300" cy="228" rx="150" ry="48" fill="#3E9693"/>
+  <ellipse cx="300" cy="230" rx="132" ry="38" fill="#F6E4B8"/>
+  <ellipse cx="300" cy="234" rx="120" ry="31" fill="#EED09A"/>
+</g>
+<path d="M214 236 C244 218 274 256 304 234 C334 212 362 252 392 232" stroke="#F6C64B" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M214 246 C244 228 274 266 304 244 C334 222 362 262 392 242" stroke="#F6C64B" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M214 256 C244 238 274 276 304 254 C334 232 362 272 392 252" stroke="#F6C64B" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M214 266 C244 248 274 286 304 264 C334 242 362 282 392 262" stroke="#F6C64B" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M214 276 C244 258 274 296 304 274 C334 252 362 292 392 272" stroke="#F6C64B" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M214 286 C244 268 274 306 304 284 C334 262 362 302 392 282" stroke="#F6C64B" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M214 296 C244 278 274 316 304 294 C334 272 362 312 392 292" stroke="#F6C64B" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M214 306 C244 288 274 326 304 304 C334 282 362 322 392 302" stroke="#F6C64B" stroke-width="9" fill="none" stroke-linecap="round"/>
+<rect x="250" y="250" width="34" height="22" rx="8" fill="#B87333" transform="rotate(-12 250 250)"/><rect x="286" y="272" width="34" height="22" rx="8" fill="#B87333" transform="rotate(8 286 272)"/><rect x="330" y="252" width="34" height="22" rx="8" fill="#B87333" transform="rotate(-6 330 252)"/><rect x="360" y="274" width="34" height="22" rx="8" fill="#B87333" transform="rotate(12 360 274)"/>
+<ellipse cx="238" cy="292" rx="13" ry="7" fill="#6FB96A"/><ellipse cx="268" cy="300" rx="13" ry="7" fill="#6FB96A"/><ellipse cx="308" cy="296" rx="13" ry="7" fill="#6FB96A"/><ellipse cx="344" cy="302" rx="13" ry="7" fill="#6FB96A"/><ellipse cx="372" cy="288" rx="13" ry="7" fill="#6FB96A"/>
+<g>
+  <circle cx="344" cy="238" r="27" fill="#FFFDF7"/>
+  <circle cx="344" cy="238" r="14" fill="#F5B93A"/>
+</g>
+<g stroke="#8B5A2B" stroke-width="9" stroke-linecap="round">
+  <path d="M402 92 L334 222"/><path d="M428 102 L362 232"/>
+</g>
+<g fill="#4E9A4E">
+  <circle cx="218" cy="238" r="4"/><circle cx="230" cy="222" r="3"/>
+  <circle cx="386" cy="240" r="4"/><circle cx="372" cy="224" r="3"/>
+</g>
+
+</svg>

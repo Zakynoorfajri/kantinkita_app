@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="600" height="450" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Ayam Geprek Sambal Bawang">
+<defs>
+  <linearGradient id="bg-ayam_geprek" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#FFF0EA"/><stop offset="1" stop-color="#FFD9CB"/>
+  </linearGradient>
+  <radialGradient id="plate-ayam_geprek" cx="45%" cy="35%" r="70%">
+    <stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F0EEE6"/>
+  </radialGradient>
+  <filter id="sh-ayam_geprek" x="-40%" y="-40%" width="180%" height="180%">
+    <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#1C2333" flood-opacity=".16"/>
+  </filter>
+</defs>
+<rect width="600" height="450" fill="url(#bg-ayam_geprek)"/>
+<circle cx="525" cy="65" r="85" fill="#FFFFFF" opacity=".20"/>
+<circle cx="65" cy="395" r="110" fill="#FFFFFF" opacity=".14"/>
+
+<g filter="url(#sh-ayam_geprek)">
+  <ellipse cx="300" cy="258" rx="182" ry="126" fill="url(#plate-ayam_geprek)" stroke="#E9E5DA" stroke-width="2"/>
+</g>
+<g>
+  <path d="M196 232 C204 178 252 160 300 172 C334 180 360 166 390 184 C424 204 414 258 396 286 C376 316 324 326 282 314 C234 300 188 286 196 232 Z" fill="#D98B3F"/>
+  <path d="M212 236 C226 198 264 184 300 194 C330 202 354 190 378 206 C404 222 398 258 382 278 C364 300 322 308 288 298 C250 288 202 274 212 236 Z" fill="#E0A052"/>
+  <g fill="#B46A2A" opacity=".7">
+    <circle cx="248" cy="232" r="5"/><circle cx="278" cy="246" r="4"/>
+    <circle cx="318" cy="228" r="5"/><circle cx="350" cy="246" r="4"/>
+    <circle cx="300" cy="272" r="4"/><circle cx="332" cy="282" r="3.5"/>
+  </g>
+</g>
+<g>
+  <circle cx="236" cy="282" r="34" fill="#D64545"/>
+  <circle cx="236" cy="282" r="27" fill="#E85B4F"/>
+  <g fill="#B3352F" opacity=".7">
+    <circle cx="226" cy="274" r="3"/><circle cx="244" cy="286" r="3"/>
+    <circle cx="232" cy="294" r="2.5"/><circle cx="248" cy="270" r="2.5"/>
+  </g>
+</g>
+<g>
+  <circle cx="378" cy="294" r="17" fill="#8CCB7A"/>
+  <circle cx="378" cy="294" r="10" fill="#CBE8B8"/>
+  <circle cx="346" cy="310" r="15" fill="#8CCB7A"/>
+  <circle cx="346" cy="310" r="8" fill="#CBE8B8"/>
+</g>
+<g fill="#4E9A4E">
+  <path d="M300 300 C314 286 330 288 336 300 C322 310 308 310 300 300 Z"/>
+  <path d="M282 308 C292 296 306 296 312 306 C300 316 290 316 282 308 Z"/>
+</g>
+
+</svg>
